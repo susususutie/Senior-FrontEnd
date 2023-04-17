@@ -250,7 +250,7 @@ Nodejs应用，因为Nodejs会在收到SIGUSR1时进入调试模式
 - 全局变量
 
 ```bash
-# 无需关键字，等号2变不要有空格
+# 无需关键字，等号两边不要有空格
   COURES=ENGINEERING 
  export  COURES=ENGINEERING # 导出
 ```
